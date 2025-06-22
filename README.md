@@ -78,8 +78,7 @@ and more……
 ❗ Disclaimer
 
 This project is provided for educational use only.
-The creators are not responsible for any misuse, resale, or violations of Roblox's Terms of Service.
-
+The creators are not responsible for any misuse, resale, or 
 
 ---
 
@@ -87,5 +86,5 @@ The creators are not responsible for any misuse, resale, or violations of Roblox
 
 Made with 💖 by Ra3d
 
-Let me know if you want this turned into a downloadable file too.
 
+# Air | Team
