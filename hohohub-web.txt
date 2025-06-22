@@ -1,0 +1,150 @@
+<html lang="en"><head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Key HoHo V4</title>
+    <link href="https://raw.githubusercontent.com/acsu123/HohoV2/refs/heads/main/BloxFruit/keysystem/hoho_logo.png" rel="shortcut icon" type="image/x-icon">
+    <meta property="og:image" content="https://raw.githubusercontent.com/acsu123/HohoV2/refs/heads/main/BloxFruit/keysystem/hoho_logo.png">
+    <meta property="og:url" content="https://hehehub-acsu123.pythonanywhere.com/api/getkeyv4">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Get Key HoHo V4">
+    <meta property="og:description" content="The Link To Get Key HoHo Hub V4!">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+            background-color: #121212;
+            color: #ffffff;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+        .background-frame {
+            position: relative;
+            width: 90vw;
+            max-width: 600px;
+            padding: 30px;
+            background: rgba(255, 255, 255, 0.1);
+            border-radius: 30px;
+            box-shadow: 0 0 20px rgba(255, 255, 255, 0.2);
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        .hidden { display: none !important; }
+        button {
+            padding: 10px 20px;
+            margin: 10px;
+            font-size: 16px;
+            cursor: pointer;
+            background-color: #1e1e1e;
+            color: #ffffff;
+            border: none;
+            border-radius: 5px;
+            transition: background 0.3s, transform 0.2s;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            width: 100%;
+        }
+        button:hover {
+            background-color: #333;
+            transform: scale(1.05);
+        }
+        .fade-in {
+            animation: fadeIn 1s ease-in;
+        }
+        @keyframes fadeIn {
+            from { opacity: 0; }
+            to { opacity: 1; }
+        }
+        .task-label, .select-label {
+            font-size: 20px;
+            margin-bottom: 10px;
+        }
+        .sub-label {
+            font-size: 14px;
+            margin-bottom: 20px;
+            color: #bbb;
+        }
+        .icon {
+            width: 20px;
+            height: 20px;
+            margin-left: 10px;
+        }
+    </style>
+
+    <!-- Google tag (gtag.js) -->
+    <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-3H86D0MT7Y"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-3H86D0MT7Y');
+    </script>
+<link rel="stylesheet" href="chrome-extension://ihcjicgdanjaechkgeegckofjjedodee/app/content-style.css"></head>
+<body>
+    <div class="background-frame">
+        <div id="task-label" class="task-label">Please Complete These Tasks To Continue!</div>
+        <div class="sub-label">Please ignore ads/pop-ups. They help us keep this project free and up to date.</div>
+        <div id="buttons">
+            <button id="btn1" onclick="checkLink(this, 'https://youtu.be/THcWOhsFocI')"><img src="https://raw.githubusercontent.com/acsu123/HohoV2/refs/heads/main/BloxFruit/keysystem/youtube_logo.png" class="icon"> Subscribe, Like &amp; Comment Video 1!</button>
+            <button id="btn2" onclick="checkLink(this, 'https://youtu.be/xC0qWDvP0q0')"><img src="https://raw.githubusercontent.com/acsu123/HohoV2/refs/heads/main/BloxFruit/keysystem/youtube_logo.png" class="icon"> Subscribe, Like &amp; Comment Video 2!</button>
+            <button id="btn3" onclick="checkLink(this, 'https://youtu.be/UztTmnAryZA')"><img src="https://raw.githubusercontent.com/acsu123/HohoV2/refs/heads/main/BloxFruit/keysystem/youtube_logo.png" class="icon"> Subscribe, Like &amp; Comment Video 3!</button>
+        </div>
+
+        <div id="select-label" class="hidden select-label">Select a website to get your key and continue!</div>
+        <div class="hidden sub-label" id="cooldown-label">If Linkvertise is on cooldown (1h), try using Lootlabs instead.</div>
+        <div id="extra-buttons" class="hidden fade-in">
+            <button onclick="location.href='https://ads.luarmor.net/get_key?for=HoHo_Hub_3_Linkvertise-VcIBlkNToFxc'">Get Key (3 Linkvertise) <img src="https://raw.githubusercontent.com/acsu123/HohoV2/refs/heads/main/BloxFruit/keysystem/linkvertise_logo.png" class="icon"><img src="https://raw.githubusercontent.com/acsu123/HohoV2/refs/heads/main/BloxFruit/keysystem/linkvertise_logo.png" class="icon"><img src="https://raw.githubusercontent.com/acsu123/HohoV2/refs/heads/main/BloxFruit/keysystem/linkvertise_logo.png" class="icon"></button>
+            <button onclick="location.href='https://ads.luarmor.net/get_key?for=HoHo_Hub_3_Lootlab-ApeyfpgnErUq'">Get Key (3 Lootlabs) <img src="https://raw.githubusercontent.com/acsu123/HohoV2/refs/heads/main/BloxFruit/keysystem/lootlabs_logo.png" class="icon"><img src="https://raw.githubusercontent.com/acsu123/HohoV2/refs/heads/main/BloxFruit/keysystem/lootlabs_logo.png" class="icon"><img src="https://raw.githubusercontent.com/acsu123/HohoV2/refs/heads/main/BloxFruit/keysystem/lootlabs_logo.png" class="icon"></button>
+            <button onclick="location.href='https://ads.luarmor.net/get_key?for=HoHo_Hub_1_LV__2_LL-lFLgalYArZya'">Get Key (1 Linkvertise &amp; 2 Lootlabs) <img src="https://raw.githubusercontent.com/acsu123/HohoV2/refs/heads/main/BloxFruit/keysystem/linkvertise_logo.png" class="icon"><img src="https://raw.githubusercontent.com/acsu123/HohoV2/refs/heads/main/BloxFruit/keysystem/lootlabs_logo.png" class="icon"><img src="https://raw.githubusercontent.com/acsu123/HohoV2/refs/heads/main/BloxFruit/keysystem/lootlabs_logo.png" class="icon"></button>
+            <button onclick="location.href='https://ads.luarmor.net/get_key?for=HoHo_Hub_2_LV__1_LL-EXzXljwhmRhT'">Get Key (2 Linkvertise &amp; 1 Lootlabs) <img src="https://raw.githubusercontent.com/acsu123/HohoV2/refs/heads/main/BloxFruit/keysystem/linkvertise_logo.png" class="icon"><img src="https://raw.githubusercontent.com/acsu123/HohoV2/refs/heads/main/BloxFruit/keysystem/linkvertise_logo.png" class="icon"><img src="https://raw.githubusercontent.com/acsu123/HohoV2/refs/heads/main/BloxFruit/keysystem/lootlabs_logo.png" class="icon"></button>
+            <br>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/yjretUY6nYc?si=yDe8JzQRFF_pyHeN" frameborder="0" allowfullscreen=""></iframe>
+        </div>
+
+        
+        <div id="container-df85ebbdb343866e18d5de2b6fd24249"></div>
+    </div>
+
+    <script>
+        fetch('https://raw.githubusercontent.com/acsu123/HohoV2/refs/heads/main/BloxFruit/keysystem/config.json')
+            .then(response => response.json())
+            .then(data => {
+                document.getElementById('btn1').setAttribute('onclick', `checkLink(this, '${data.btn1}')`);
+                document.getElementById('btn2').setAttribute('onclick', `checkLink(this, '${data.btn2}')`);
+                document.getElementById('btn3').setAttribute('onclick', `checkLink(this, '${data.btn3}')`);
+            })
+            .catch(error => console.error('Error fetching links:', error));
+
+        let doneCount = 0;
+        function checkLink(button, url) {
+            button.textContent = "Checking...";
+            button.style.backgroundColor = "#444";
+            window.open(url, '_blank');
+            setTimeout(() => {
+                button.textContent = "Done";
+                button.style.backgroundColor = "#008000";
+                doneCount++;
+                if (doneCount === 3) {
+                    document.getElementById('task-label').classList.add('hidden');
+                    document.getElementById('buttons').classList.add('hidden');
+                    document.getElementById('select-label').classList.remove('hidden');
+                    document.getElementById('cooldown-label').classList.remove('hidden');
+                    document.getElementById('extra-buttons').classList.remove('hidden');
+                }
+            }, 5000);
+        }
+    </script>
+
+    <!--ads-->
+    
+    
+    <!--ad block-->
+    
+
+</body></html>
